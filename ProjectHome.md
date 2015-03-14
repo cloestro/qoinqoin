@@ -1,0 +1,1 @@
+QoinQoin is a mouling agent written with Qt4. It works on several platform (Linux, Windows, ...)
